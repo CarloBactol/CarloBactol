@@ -7,7 +7,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=carlobactol&show_icons=true&locale=en&layout=compact" alt="carlobactol" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=carlobactol&show_icons=true&locale=en" alt="carlobactol" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=carlobactol&" alt="carlobactol" /></p>
 
