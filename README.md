@@ -18,12 +18,12 @@
 
 ### 🛠️ Key Projects
 
-#### [TaskMaster (Student Grade Management)](https://github.com/carlobactol/TaskMaster)
+#### [Student Grade Management](https://github.com/carlobactol/DanaosTest)
 * **Tech Stack:** ASP.NET Core Web API, React, TypeScript, SQL Server.
 * **Highlight:** Engineered a service-based architecture using **DTOs** and optimized **ADO.NET** queries.
 * **Feature:** Built a real-time dashboard with **Chart.js** and an automated reporting module using **EPPlus**.
 
-#### [E-Shop Platform](https://github.com/carlobactol/e-shop)
+#### [E-Shop Platform](https://github.com/carlobactol/milktea-shop)
 * **Tech Stack:** PHP (Laravel), MySQL, PayPal SDK.
 * **Highlight:** Developed a secure, scalable e-commerce site with manual database normalization and **Eloquent ORM**.
 
